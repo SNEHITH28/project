@@ -17,16 +17,13 @@ public class SimpleAndCompoundInterest {
 	}
 	double compoundInterest() {
 		double CompoundInterest=0;
-		double InterestForSingleYear=0;
 		for(int i = 0;i<timeInYear;i++) {
 			if(timeInYear-i>=1) {
-			InterestForSingleYear = InterestForSingleYear + (principleAmount*rateOfInterest)/100;
-			principleAmount=InterestForSingleYear;
-			CompoundInterest=CompoundInterest+InterestForSingleYear;
+			CompoundInterest=CompoundInterest+((principleAmount+CompoundInterest)*rateOfInterest)/100;
 		    }
 			else {
-				InterestForSingleYear=InterestForSingleYear+(principleAmount*(timeInYear-i)*rateOfInterest)/100;
-				CompoundInterest=CompoundInterest+InterestForSingleYear;
+				CompoundInterest=CompoundInterest+((principleAmount+CompoundInterest)*(timeInYear-i)*rateOfInterest)/100;
+				
 			}	
 		}	
 		return CompoundInterest;

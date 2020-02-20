@@ -11,7 +11,7 @@ public class Client {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		Scanner scan =new Scanner(System.in);
-		SimpleAndCompoundInterest Interest = new SimpleAndCompoundInterest(10000.0,3,10.0);
+		SimpleAndCompoundInterest Interest = new SimpleAndCompoundInterest(4000.0,2.5,10.0);
 		System.out.write("Simple Interest:".getBytes());
 		System.out.format("%.2f\n",Interest.simpleInterest());
 		System.out.write("Compound Interest:".getBytes());
