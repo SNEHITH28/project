@@ -1,0 +1,44 @@
+Simple Interest:3000.0rs.
+Compoumd Interest:3310.0rs.
+Enter material type STANDARD or ABOVE STANDARD or HIGH STANDARD 
+Your have selected standard material
+Enter the total area of the house 
+The total area of the house is 564.0 square feets
+Estimated House Construction Cost:676800.0rs.
+
+Simple Interest:3000.0rs.
+Compoumd Interest:3310.0rs.
+Enter material type STANDARD or ABOVE STANDARD or HIGH STANDARD 
+Your have selected above standard material
+Enter the total area of the house 
+The total area of the house is 675.0 square feets
+Estimated House Construction Cost:1012500.0rs.
+
+Simple Interest:3500.0rs.
+Compoumd Interest:3975.5rs.
+Enter material type STANDARD or ABOVE STANDARD or HIGH STANDARD 
+Your have selected high standard material
+If you want AUTOMATED HOUSE Enter true otherwise false 
+Enter the total area of the house 
+The total area of the house is 897.0 square feets
+Your are selected Automated house
+Estimated House Construction Cost:2242500.0rs.
+
+Simple Interest:3750.0rs.
+Compoumd Interest:4308.25rs.
+Enter material type STANDARD or ABOVE STANDARD or HIGH STANDARD 
+Your have selected high standard material
+If you want AUTOMATED HOUSE Enter true otherwise false 
+Enter the total area of the house 
+The total area of the house is 675.0 square feets
+Your are not selected Automated house
+Estimated House Construction Cost:1215000.0rs.
+
+Simple Interest:3750.0rs.
+Compoumd Interest:4308.25rs.
+Enter material type STANDARD or ABOVE STANDARD or HIGH STANDARD 
+Your have selected average standard material
+Enter the total area of the house 
+The total area of the house is 234.0 square feets
+Invalid Material Type
+Estimated House Construction Cost:0.0rs.
