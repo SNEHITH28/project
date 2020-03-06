@@ -1,0 +1,62 @@
+-----------------------------------
+Initially the Elements in the List
+---------------------------------
+     Elements in the list
+---------------------------------
+Student Id        Student Name
+---------------------------------
+1		  bhavana
+2		  pooja
+3		  vamshi
+4		  sameer
+5		  snehith
+6		  tejasri
+7		  raviteja
+8		  pavan
+9		  shivanshu
+10		  navya
+---------------------------------
+11 rupa is inserted 
+12 veera is inserted 
+13 jagadish is inserted 
+---------------------------------
+     Elements in the list
+---------------------------------
+Student Id        Student Name
+---------------------------------
+1		  bhavana
+2		  pooja
+3		  vamshi
+4		  sameer
+5		  snehith
+6		  tejasri
+7		  raviteja
+8		  pavan
+9		  shivanshu
+10		  navya
+11		  rupa
+12		  veera
+13		  jagadish
+---------------------------------
+13 jagadish is deleted
+---------------------------------
+     Elements in the list
+---------------------------------
+Student Id        Student Name
+---------------------------------
+1		  bhavana
+2		  pooja
+3		  vamshi
+4		  sameer
+5		  snehith
+6		  tejasri
+7		  raviteja
+8		  pavan
+9		  shivanshu
+10		  navya
+11		  rupa
+12		  veera
+---------------------------------
+6 tejasri is in the list
+5 snehith is in the list
+End of the program
