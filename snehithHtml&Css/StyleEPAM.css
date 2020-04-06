@@ -14,6 +14,7 @@ a{
     margin-top: 10% ;
     border: solid 1px black;
     border-radius: 5px;
+    padding-bottom: 20px;
 }
 .logo{
     float: left;
@@ -36,7 +37,7 @@ a{
 .form input{
     padding: 3px;
     width: 83%;
-    margin-left: 10px;
+    margin: 10px 10px;
     border: none;
 }
 .forget{
@@ -51,14 +52,19 @@ a{
 .button button{
     width: 90%;
     padding: 5px;
-    margin: 3px 3px 5px 12.5px;
+    margin: 10px 3px 5px 12.5px;
     border-radius: 5px;
     color: white;
     font-size: 15px;
 }
+
 h6{
-    padding: 5px;
+    padding: 30px 5px;
     text-align: center;
 }
 
+#el{
+    margin-top: 20px;
+    background-color: rgb(155, 236, 9);
+}
 
